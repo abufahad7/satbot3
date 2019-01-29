@@ -1,0 +1,15 @@
+{
+  "name": "welcome-user",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "https://satbot3.azurewebsites.net/api/messages",
+      "appId": "3bcbdc22-00e4-4ef3-a397-5f97ec2b8c17",
+      "appPassword": "Jp*YuY%Dy6G@/7vI",
+      "id": "1"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
